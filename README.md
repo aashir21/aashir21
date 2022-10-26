@@ -5,13 +5,13 @@
 - I love computers and everything that revolves around them.
 
 ## 👀 I’m interested in:
-- gaining some experience in the field before I gradute and I am open to work part-time or even an internship.
+- gaining some experience in the field before I graduate and I am open to work part-time or even an internship.
 - any volunteer field related work.
 - working remotely / On-site (Ely / Cambridge only)
 
 ## 🌱 I’m currently learning 
 - react tools and anything in general that will make me a better coder than I am right now.
-- moreover, I also study DSA alongside Web Dev.
+- DSA alongside Web Dev.
 - modern website design trends. 
  
 ## 💞️ I’m looking to
