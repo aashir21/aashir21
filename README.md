@@ -8,7 +8,7 @@
 - gaining some experience in the field before I graduate and I am open to work part-time or even an internship.
 - any volunteer field related work.
 - contributing to Open Source projects
-- working remotely / On-site (Ely / Cambridge only)
+- working remotely / On-site
 
 ## 🌱 I’m currently learning 
 - frameworks to enhance my skill set.
