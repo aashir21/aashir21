@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aashir Siddiqui, 
 - I am 21 years old, born and raised in Pakistan. Currently residing in the UK.
-- A year-long placement at IBM.
+- A year-long placement intern at IBM.
 - I am a Full Stack Developer working with React and Spring Boot.
 - I love computers and everything that revolves around them.
 
