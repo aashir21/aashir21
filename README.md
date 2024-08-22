@@ -1,14 +1,12 @@
 ## 👋 Hi, I’m Aashir Siddiqui, 
 - I am 21 years old, born and raised in Pakistan. Currently residing in the UK.
-- I am a second year Computer Science student at Anglia Ruskin University.
+- A year-long placement at IBM.
 - I am a Full Stack Developer working with React and Spring Boot.
 - I love computers and everything that revolves around them.
 
 ## 👀 I’m interested in:
-- gaining some experience in the field before I graduate and I am open to work part-time or even an internship.
 - any volunteer field related work.
 - contributing to Open Source projects
-- working remotely / On-site
 
 ## 🌱 I’m currently learning 
 - frameworks to enhance my skill set.
