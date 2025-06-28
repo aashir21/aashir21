@@ -60,7 +60,7 @@ const aashir = {
         "Open source collaboration projects 🤝"
     ],
     workPreference: ["Remote", "Hybrid", "On-site"],
-    availability: "Immediately available for new opportunities ✨"
+    availability: "To graduate in April 2026 ✨"
 };
 ```
 
@@ -114,7 +114,7 @@ const aashir = {
 - 🌍 Born in Pakistan, thriving in the UK
 - ☕ Fueled by coffee and curiosity
 - 🧩 Love solving complex problems
-- 🎮 Gaming enthusiast in spare time
+- 🎮 Gaming enthusiast in my spare time
 - 📚 Continuous learner and tech explorer
 
 ---
@@ -142,18 +142,3 @@ const aashir = {
 </div>
 
 ---
-
-<details>
-<summary>🎨 <b>More About This README</b></summary>
-<br>
-
-This README was crafted with ❤️ using:
-- Dynamic typing animations
-- GitHub stats integration
-- Responsive design elements
-- Professional badge styling
-- Interactive sections
-
-Feel free to fork and customize for your own profile!
-
-</details>
